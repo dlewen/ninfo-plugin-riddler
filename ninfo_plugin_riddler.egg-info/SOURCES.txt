@@ -1,0 +1,12 @@
+MANIFEST.in
+setup.py
+ninfo_plugin_riddler/__init__.py
+ninfo_plugin_riddler/riddler_template_html.mako
+ninfo_plugin_riddler/riddler_template_text.mako
+ninfo_plugin_riddler.egg-info/PKG-INFO
+ninfo_plugin_riddler.egg-info/SOURCES.txt
+ninfo_plugin_riddler.egg-info/dependency_links.txt
+ninfo_plugin_riddler.egg-info/entry_points.txt
+ninfo_plugin_riddler.egg-info/not-zip-safe
+ninfo_plugin_riddler.egg-info/requires.txt
+ninfo_plugin_riddler.egg-info/top_level.txt
